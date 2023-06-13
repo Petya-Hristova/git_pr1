@@ -1,0 +1,48 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,11 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="05ba6120-fa81-44c2-910c-edcce2ece64d" name="Changes" comment="add Main class">
+-      <change afterPath="$PROJECT_DIR$/Test4.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
++    <list default="true" id="05ba6120-fa81-44c2-910c-edcce2ece64d" name="Changes" comment="add Test class">
++      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -122,7 +119,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1686697230829</updated>
+     </task>
+-    <option name="localTasksCounter" value="10" />
++    <task id="LOCAL-00010" summary="add Test class">
++      <created>1686698658784</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1686698658784</updated>
++    </task>
++    <option name="localTasksCounter" value="11" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -152,6 +156,7 @@
+     <MESSAGE value="commit gitignore" />
+     <MESSAGE value="add Main" />
+     <MESSAGE value="add Main class" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add Main class" />
++    <MESSAGE value="add Test class" />
++    <option name="LAST_COMMIT_MESSAGE" value="add Test class" />
+   </component>
+ </project>
+\ No newline at end of file
