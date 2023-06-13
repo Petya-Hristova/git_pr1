@@ -3,6 +3,6 @@ public class Main {
 
         System.out.println("Hello Petya! How are you?");
         System.out.println("Are you fine?");
-        System.out.println("Yes OR NO?");
+
     }
 }
